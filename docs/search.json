@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nEmail: your email here\nLinkedIn: My LinkedIn\nGitHub: My GitHub"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV\nDownload My Resume"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nHi, I’m Yingyi Guo.\nI am a graduate student in Business Analytics at Boston University.\nMy interests include data analytics, GIS, spatial analysis, and environmental planning.\nI am passionate about using data-driven insights to solve real-world infrastructure and environmental problems."
+  }
+]
