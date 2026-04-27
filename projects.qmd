@@ -1,0 +1,38 @@
+# Projects
+
+## Job Market Analytics Project
+
+Analyzed U.S. job posting data to understand hiring trends, skill demand, and career opportunities in data-related fields.
+
+**Tools:** Python, Quarto, GitHub Pages, Data Visualization
+
+**Key Work:**
+- Cleaned and organized job posting data
+- Identified trends in skills, industries, and job categories
+- Built visualizations to communicate findings clearly
+
+---
+
+## Hospitality Analytics Project
+
+Used booking and customer behavior data to analyze cancellation patterns, customer segments, and revenue opportunities.
+
+**Tools:** Python, Tableau, Machine Learning
+
+**Key Work:**
+- Built exploratory visualizations to understand customer behavior
+- Created classification models to predict booking outcomes
+- Developed business insights for improving customer targeting
+
+---
+
+## GIS and Environmental Analysis Project
+
+Applied spatial analysis to support environmental and urban planning decisions.
+
+**Tools:** ArcGIS Pro, QGIS, Python
+
+**Key Work:**
+- Processed spatial data and created maps
+- Analyzed environmental and site conditions
+- Connected spatial patterns with planning recommendations
