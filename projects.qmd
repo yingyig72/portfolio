@@ -17,7 +17,7 @@ Analyzed U.S. job posting data to understand hiring trends, skill demand, and ca
 
 Used booking and customer behavior data to analyze cancellation patterns, customer segments, and revenue opportunities.
 
-**Tools:** Python, Tableau, Machine Learning
+**Tools** Python, Tableau, Machine Learning
 
 **Key Work:**
 - Built exploratory visualizations to understand customer behavior
