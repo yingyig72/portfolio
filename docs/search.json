@@ -18,7 +18,28 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "CV\n[Download My Resume]（YingyiGuo_Resume.pdf）"
+    "text": "CV\nDownload My Resume"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "y ## Job Market Analytics Project\nAnalyzed U.S. job posting data to understand hiring trends, skill demand, and career opportunities in data-related fields.\nTools: Python, Quarto, GitHub Pages, Data Visualization\nKey Work: - Cleaned and organized job posting data - Identified trends in skills, industries, and job categories - Built visualizations to communicate findings clearly\n\n\n\nUsed booking and customer behavior data to analyze cancellation patterns, customer segments, and revenue opportunities.\nTools Python, Tableau, Machine Learning\nKey Work: - Built exploratory visualizations to understand customer behavior - Created classification models to predict booking outcomes - Developed business insights for improving customer targeting\n\n\n\n\nApplied spatial analysis to support environmental and urban planning decisions.\nTools: ArcGIS Pro, QGIS, Python\nKey Work: - Processed spatial data and created maps - Analyzed environmental and site conditions - Connected spatial patterns with planning recommendations"
+  },
+  {
+    "objectID": "projects.html#hospitality-analytics-project",
+    "href": "projects.html#hospitality-analytics-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Used booking and customer behavior data to analyze cancellation patterns, customer segments, and revenue opportunities.\nTools Python, Tableau, Machine Learning\nKey Work: - Built exploratory visualizations to understand customer behavior - Created classification models to predict booking outcomes - Developed business insights for improving customer targeting"
+  },
+  {
+    "objectID": "projects.html#gis-and-environmental-analysis-project",
+    "href": "projects.html#gis-and-environmental-analysis-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Applied spatial analysis to support environmental and urban planning decisions.\nTools: ArcGIS Pro, QGIS, Python\nKey Work: - Processed spatial data and created maps - Analyzed environmental and site conditions - Connected spatial patterns with planning recommendations"
   },
   {
     "objectID": "index.html",
