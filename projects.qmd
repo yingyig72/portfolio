@@ -1,5 +1,6 @@
 # Projects
 
+y
 ## Job Market Analytics Project
 
 Analyzed U.S. job posting data to understand hiring trends, skill demand, and career opportunities in data-related fields.
