@@ -2,6 +2,42 @@
 
 [Download My Resume](YingyiGuo_Resume.pdf)
 
+::: {.timeline}
+
+::: {.timeline-item}
+<div class="timeline-date">Nov 2025 – Jan 2026</div>
+<div class="timeline-content">
+<h3>Qualitative & Quantitative Insights Externship</h3>
+<p><strong>Extern, Beats by Dre</strong> · Remote</p>
+<p>
+Analyzed 500+ Amazon customer reviews using Python (pandas, NLP) to identify drivers of low ratings and product risks.
+</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">May 2024 – Jul 2024</div>
+<div class="timeline-content">
+<h3>Landscape Architecture Intern</h3>
+<p><strong>Heilongjiang Institute of Architectural Design</strong> · On-site</p>
+<p>
+Conducted site research and supported construction drawing development and design workflows.
+</p>
+</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Jun 2023 – Aug 2023</div>
+<div class="timeline-content">
+<h3>Landscape Architecture Intern</h3>
+<p><strong>ZWP International</strong> · On-site</p>
+<p>
+Built multi-layer GIS overlays (land use, slope, vegetation) and produced spatial analysis maps.
+</p>
+</div>
+:::
+
+:::
 <div class="scroll-hint" onclick="window.location.href='contact.html'" style="cursor:pointer;">
   <span>Next</span>
   <div class="arrow"></div>
