@@ -124,8 +124,23 @@ format:
   box-shadow: 0 44px 90px rgba(47, 93, 58, 0.35);
 }
 
-
-
+/* Scroll hint */
+.scroll-hint {
+  position: absolute;
+  bottom: 32px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  color: #6a9e6a;
+  font-size: 0.75rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  z-index: 3;
+  animation: fadeIn 2s ease 1.5s both;
+}
 .scroll-hint .arrow {
   width: 20px;
   height: 20px;
@@ -160,7 +175,7 @@ format:
     <img src="profile.jpg" alt="Yingyi Guo" />
   </div>
 
-  <div class="scroll-hint" onclick="window.location.href='about.html'" style="cursor:pointer;">
+  <div class="scroll-hint" onclick="window.location.href='projects.html'" style="cursor:pointer;">
     <span>Scroll</span>
     <div class="arrow"></div>
   </div>

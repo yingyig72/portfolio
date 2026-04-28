@@ -18,43 +18,8 @@ Conducted spatial analysis using GIS datasets across five NYC neighborhoods to e
 Examined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.
 
 **Tools:** Python, Lightcast, Census Data, GeoPandas
-.scroll-hint .arrow {
-  width: 20px;
-  height: 20px;
-  border-right: 2px solid #6a9e6a;
-  border-bottom: 2px solid #6a9e6a;
-  transform: rotate(45deg);
-  animation: bounceDown 1.5s ease infinite;
-}
-@keyframes bounceDown {
-  0%, 100% { transform: rotate(45deg) translateY(0); }
-  50%       { transform: rotate(45deg) translateY(6px); }
-}
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to   { opacity: 1; }
-}
-</style>
-
-<div class="hero-opening">
-  <div class="blob blob-1"></div>
-  <div class="blob blob-2"></div>
-  <div class="blob blob-3"></div>
-
-  <div class="hero-text" id="heroText">
-    <p class="label">Portfolio · 2025</p>
-    <h1><span>Yingyi Guo</span></h1>
-    <p>Business Analytics graduate student with a background in landscape architecture.</p>
-    <p>I focus on data analytics, spatial thinking, and environmental systems.</p>
-  </div>
-
-  <div class="hero-photo" id="heroPhoto">
-    <img src="profile.jpg" alt="Yingyi Guo" />
-  </div>
-
-  <div class="scroll-hint" onclick="window.location.href='cv.html'" style="cursor:pointer;">
-    <span>Scroll</span>
-    <div class="arrow"></div>
-  </div>
+<div class="scroll-hint" onclick="window.location.href='projects.html'" style="cursor:pointer;">
+  <span>Next</span>
+  <div class="arrow"></div>
 </div>
 ---

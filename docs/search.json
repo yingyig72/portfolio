@@ -46,14 +46,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Market Analytics & Investment Strategy: NYC Real Estate\nConducted spatial analysis using GIS datasets across five NYC neighborhoods to evaluate land use, housing, and investment patterns.\nTools: Python, GIS, Clustering, Regression\nDate: December 2025\n\n\n\nAI & Urban-Rural Job Market Disparities\nExamined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.\nTools: Python, Lightcast, Census Data, GeoPandas .scroll-hint .arrow { width: 20px; height: 20px; border-right: 2px solid #6a9e6a; border-bottom: 2px solid #6a9e6a; transform: rotate(45deg); animation: bounceDown 1.5s ease infinite; } @keyframes bounceDown { 0%, 100% { transform: rotate(45deg) translateY(0); } 50% { transform: rotate(45deg) translateY(6px); } } @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }\n\n\n\n\n\n\n\n\n\n\n\n\n&lt;p class=\"label\"&gt;Portfolio · 2025&lt;/p&gt;\n&lt;h1&gt;&lt;span&gt;Yingyi Guo&lt;/span&gt;&lt;/h1&gt;\n&lt;p&gt;Business Analytics graduate student with a background in landscape architecture.&lt;/p&gt;\n&lt;p&gt;I focus on data analytics, spatial thinking, and environmental systems.&lt;/p&gt;\n\n\n&lt;img src=\"profile.jpg\" alt=\"Yingyi Guo\" /&gt;\n\n\n&lt;span&gt;Scroll&lt;/span&gt;\n&lt;div class=\"arrow\"&gt;&lt;/div&gt;"
+    "text": "Market Analytics & Investment Strategy: NYC Real Estate\nConducted spatial analysis using GIS datasets across five NYC neighborhoods to evaluate land use, housing, and investment patterns.\nTools: Python, GIS, Clustering, Regression\nDate: December 2025\n\n\n\nAI & Urban-Rural Job Market Disparities\nExamined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.\nTools: Python, Lightcast, Census Data, GeoPandas\n\nNext"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "CV\nDownload My Resume\n.scroll-hint .arrow { width: 20px; height: 20px; border-right: 2px solid #6a9e6a; border-bottom: 2px solid #6a9e6a; transform: rotate(45deg); animation: bounceDown 1.5s ease infinite; } @keyframes bounceDown { 0%, 100% { transform: rotate(45deg) translateY(0); } 50% { transform: rotate(45deg) translateY(6px); } } @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }\n\n\n\n\n\n\n\n\n\n\n\n\n&lt;p class=\"label\"&gt;Portfolio · 2025&lt;/p&gt;\n&lt;h1&gt;&lt;span&gt;Yingyi Guo&lt;/span&gt;&lt;/h1&gt;\n&lt;p&gt;Business Analytics graduate student with a background in landscape architecture.&lt;/p&gt;\n&lt;p&gt;I focus on data analytics, spatial thinking, and environmental systems.&lt;/p&gt;\n\n\n&lt;img src=\"profile.jpg\" alt=\"Yingyi Guo\" /&gt;\n\n\n&lt;span&gt;Scroll&lt;/span&gt;\n&lt;div class=\"arrow\"&gt;&lt;/div&gt;"
+    "text": "CV\nDownload My Resume\n\nNext"
   },
   {
     "objectID": "contact.html",
