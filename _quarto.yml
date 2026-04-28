@@ -7,13 +7,13 @@ website:
   navbar:
     left:
       - text: "About"
-        href: "#about"
+        href: about.qmd          
       - text: "Projects"
-        href: "#projects"
+        href: projects.qmd       
       - text: "CV"
-        href: "#cv"
+        href: cv.qmd
       - text: "Contact"
-        href: "#contact"
+        href: contact.qmd
 
 format:
   html:
