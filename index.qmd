@@ -1,5 +1,5 @@
 
-# About Me
+# 
 ::: {.page-section .about-section #about}
 
 <div class="leaf-shape leaf-one"></div>
@@ -29,39 +29,3 @@ I focus on data analytics, spatial thinking, and environmental systems.
 :::
 
 ::: {.page-section .projects-section #projects}
-
-# Projects
-
-## Job Market Analytics Project
-
-Analyzed job posting data to identify hiring trends, skill demand, and career opportunities.
-
-**Tools:** Python, Quarto, GitHub Pages
-
-## Hospitality Analytics Project
-
-Analyzed booking behavior, customer segments, and revenue opportunities.
-
-**Tools:** Python, Tableau, Machine Learning
-
-:::
-
-::: {.page-section .cv-section #cv}
-
-# CV
-
-[Download My Resume](YingyiGuo_Resume.pdf)
-
-:::
-
-::: {.page-section .contact-section #contact}
-
-# Contact
-
-**Email:** ying90135@gmail.com
-
-**LinkedIn:** www.linkedin.com/in/yingyi2003
-
-**GitHub:** https://github.com/yingyig72
-
-:::
