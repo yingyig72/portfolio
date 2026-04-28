@@ -1,15 +1,25 @@
 
 # About Me
 ::: {.hero-opening}
-<div class="leaf-shape leaf-one"></div>
-<div class="leaf-shape leaf-two"></div>
-<div class="leaf-shape leaf-three"></div>
+
+<div class="hero-text">
 
 # Yingyi Guo
 
 ## Data Analytics · Spatial Thinking · Environmental Systems
 
 I transform data into visual, spatial, and actionable insights.
+
+</div>
+
+<div class="hero-photo">
+<img src="profile.jpg" alt="Yingyi Guo profile photo">
+</div>
+
+<div class="leaf-shape leaf-one"></div>
+<div class="leaf-shape leaf-two"></div>
+<div class="leaf-shape leaf-three"></div>
+
 :::
 
 ::: {.hero-section}

@@ -6,14 +6,14 @@ website:
   title: "Yingyi Guo Portfolio"
   navbar:
     left:
-      - href: index.qmd
-        text: About You
-      - href: projects.qmd
-        text: Projects
-      - href: cv.qmd
-        text: CV
-      - href: contact.qmd
-        text: Contact
+      - text: "About You"
+        href: index.qmd#about
+      - text: "Projects"
+        href: index.qmd#projects
+      - text: "CV"
+        href: index.qmd#cv
+      - text: "Contact"
+        href: index.qmd#contact
 
 format:
   html:
