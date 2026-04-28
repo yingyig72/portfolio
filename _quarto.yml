@@ -5,9 +5,7 @@ project:
 website:
   title: "Yingyi Guo Portfolio"
   navbar:
-    left:
-      - text: "About"
-        href: about.qmd          
+    left:    
       - text: "Projects"
         href: projects.qmd       
       - text: "CV"

@@ -93,10 +93,6 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.qmd"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
@@ -152,10 +148,42 @@ ul.task-list li input[type="checkbox"] {
 <section id="ai-urban-rural-job-market-disparities" class="level3">
 <h3 class="anchored" data-anchor-id="ai-urban-rural-job-market-disparities"><a href="./ai-jobmarket.html">AI &amp; Urban-Rural Job Market Disparities</a></h3>
 <p>Examined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.</p>
-<p><strong>Tools:</strong> Python, Lightcast, Census Data, GeoPandas .scroll-hint { position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; gap: 6px; color: #6a9e6a; font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; z-index: 3; animation: fadeIn 2s ease 1.5s both; }</p>
-<p>.scroll-hint .arrow { width: 20px; height: 20px; border-right: 2px solid #6a9e6a; border-bottom: 2px solid #6a9e6a; transform: rotate(45deg); animation: bounceDown 1.5s ease infinite; }</p>
-<p><span class="citation" data-cites="keyframes">@keyframes</span> bounceDown { 0%, 100% { transform: rotate(45deg) translateY(0); } 50% { transform: rotate(45deg) translateY(8px); } }</p>
-<p><span class="citation" data-cites="keyframes">@keyframes</span> fadeIn { from { opacity: 0; } to { opacity: 1; } } —</p>
+<strong>Tools:</strong> Python, Lightcast, Census Data, GeoPandas .scroll-hint { position: absolute; bottom: 32px; left: 50%; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; gap: 6px; color: #6a9e6a; font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; z-index: 3; animation: fadeIn 2s ease 1.5s both; } .scroll-hint .arrow { width: 20px; height: 20px; border-right: 2px solid #6a9e6a; border-bottom: 2px solid #6a9e6a; transform: rotate(45deg); animation: bounceDown 1.5s ease infinite; } <span class="citation" data-cites="keyframes">@keyframes</span> bounceDown { 0%, 100% { transform: rotate(45deg) translateY(0); } 50% { transform: rotate(45deg) translateY(6px); } } <span class="citation" data-cites="keyframes">@keyframes</span> fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+<div class="hero-opening">
+<div class="blob blob-1">
+
+</div>
+<div class="blob blob-2">
+
+</div>
+<div class="blob blob-3">
+
+</div>
+<div id="heroText" class="hero-text">
+<pre><code>&lt;p class="label"&gt;Portfolio · 2025&lt;/p&gt;
+&lt;h1&gt;&lt;span&gt;Yingyi Guo&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;Business Analytics graduate student with a background in landscape architecture.&lt;/p&gt;
+&lt;p&gt;I focus on data analytics, spatial thinking, and environmental systems.&lt;/p&gt;</code></pre>
+</div>
+<div id="heroPhoto" class="hero-photo">
+<pre><code>&lt;img src="profile.jpg" alt="Yingyi Guo" /&gt;</code></pre>
+</div>
+<div class="scroll-hint" onclick="window.location.href='about.html'" style="cursor:pointer;">
+<pre><code>&lt;span&gt;Scroll&lt;/span&gt;
+&lt;div class="arrow"&gt;&lt;/div&gt;</code></pre>
+</div>
+</div>
+<script>
+// Trigger entrance animations on load
+window.addEventListener('load', () => {
+  setTimeout(() => {
+    document.getElementById('heroText').classList.add('visible');
+    document.getElementById('heroPhoto').classList.add('visible');
+  }, 100);
+});
+</script>
+<hr>
 
 
 </section>
