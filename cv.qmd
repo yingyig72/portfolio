@@ -2,7 +2,7 @@
 
 [Download My Resume](YingyiGuo_Resume.pdf)
 
-<div class="scroll-hint" onclick="window.location.href='projects.html'" style="cursor:pointer;">
+<div class="scroll-hint" onclick="window.location.href='contact.html'" style="cursor:pointer;">
   <span>Next</span>
   <div class="arrow"></div>
 </div>
