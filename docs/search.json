@@ -25,7 +25,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "y ## Job Market Analytics Project\nAnalyzed U.S. job posting data to understand hiring trends, skill demand, and career opportunities in data-related fields.\nTools: Python, Quarto, GitHub Pages, Data Visualization\nKey Work: - Cleaned and organized job posting data - Identified trends in skills, industries, and job categories - Built visualizations to communicate findings clearly\n\n\n\nUsed booking and customer behavior data to analyze cancellation patterns, customer segments, and revenue opportunities.\nTools Python, Tableau, Machine Learning\nKey Work: - Built exploratory visualizations to understand customer behavior - Created classification models to predict booking outcomes - Developed business insights for improving customer targeting\n\n\n\n\nApplied spatial analysis to support environmental and urban planning decisions.\nTools: ArcGIS Pro, QGIS, Python\nKey Work: - Processed spatial data and created maps - Analyzed environmental and site conditions - Connected spatial patterns with planning recommendations"
+    "text": "Analyzed U.S. job posting data to understand hiring trends, skill demand, and career opportunities in data-related fields.\nTools: Python, Quarto, GitHub Pages, Data Visualization\nKey Work: - Cleaned and organized job posting data - Identified trends in skills, industries, and job categories - Built visualizations to communicate findings clearly\n\n\n\n\nUsed booking and customer behavior data to analyze cancellation patterns, customer segments, and revenue opportunities.\nTools Python, Tableau, Machine Learning\nKey Work: - Built exploratory visualizations to understand customer behavior - Created classification models to predict booking outcomes - Developed business insights for improving customer targeting\n\n\n\n\nApplied spatial analysis to support environmental and urban planning decisions.\nTools: ArcGIS Pro, QGIS, Python\nKey Work: - Processed spatial data and created maps - Analyzed environmental and site conditions - Connected spatial patterns with planning recommendations"
+  },
+  {
+    "objectID": "projects.html#job-market-analytics-project",
+    "href": "projects.html#job-market-analytics-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed U.S. job posting data to understand hiring trends, skill demand, and career opportunities in data-related fields.\nTools: Python, Quarto, GitHub Pages, Data Visualization\nKey Work: - Cleaned and organized job posting data - Identified trends in skills, industries, and job categories - Built visualizations to communicate findings clearly"
   },
   {
     "objectID": "projects.html#hospitality-analytics-project",
@@ -46,7 +53,42 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi, I’m Yingyi Guo, a graduate student in Business Analytics at Boston University with a background in landscape architecture.\nMy work sits at the intersection of data analysis, spatial thinking, and environmental systems. I am particularly interested in how data can be used to support decision-making in areas such as environmental planning, urban systems, and public infrastructure.\n\n\n\n\nData Analysis using Python, SQL, and Excel\n\nData Visualization with Tableau\n\nSpatial Analysis with GIS (ArcGIS Pro, QGIS)\n\nMachine Learning for prediction and classification\n\nI enjoy transforming messy, real-world data into structured insights that can inform better decisions.\n\n\n\n\nI am especially interested in:\n\nEnvironmental data analysis\n\nWater and ecological systems\n\nUrban and infrastructure analytics\n\nData-driven decision-making in public sector projects\n\n\n\n\n\nMy goal is to work in a role where I can combine data analytics and spatial analysis to generate actionable insights, particularly in environmental or urban contexts.\nI am actively looking for opportunities where I can apply my technical skills to real-world problems and continue building impactful data-driven solutions."
+    "text": "I transform data into visual, spatial, and actionable insights.\n\n\n\n\n\nI am a Business Analytics graduate student with a background in landscape architecture, interested in data, spatial analysis, and environmental systems.\n\n\n\nI use Python, SQL, Tableau, and GIS tools to transform complex data into clear insights.\n\n\n\nMy work focuses on environmental data, urban systems, water, infrastructure, and public-sector decision-making.\n\n\n\nI hope to work in a role that combines data analytics and spatial analysis to support real-world environmental and planning decisions.\n\nHi, I’m Yingyi Guo, a graduate student in Business Analytics at Boston University with a background in landscape architecture.\nMy work sits at the intersection of data analysis, spatial thinking, and environmental systems. I am particularly interested in how data can be used to support decision-making in areas such as environmental planning, urban systems, and public infrastructure.\n\n\n\n\nData Analysis using Python, SQL, and Excel\n\nData Visualization with Tableau\n\nSpatial Analysis with GIS (ArcGIS Pro, QGIS)\n\nMachine Learning for prediction and classification\n\nI enjoy transforming messy, real-world data into structured insights that can inform better decisions.\n\n\n\n\nI am especially interested in:\n\nEnvironmental data analysis\n\nWater and ecological systems\n\nUrban and infrastructure analytics\n\nData-driven decision-making in public sector projects\n\n\n\n\n\nMy goal is to work in a role where I can combine data analytics and spatial analysis to generate actionable insights, particularly in environmental or urban contexts.\nI am actively looking for opportunities where I can apply my technical skills to real-world problems and continue building impactful data-driven solutions."
+  },
+  {
+    "objectID": "index.html#data-analytics-spatial-thinking-environmental-systems",
+    "href": "index.html#data-analytics-spatial-thinking-environmental-systems",
+    "title": "About Me",
+    "section": "",
+    "text": "I transform data into visual, spatial, and actionable insights."
+  },
+  {
+    "objectID": "index.html#hi-im-yingyi-guo",
+    "href": "index.html#hi-im-yingyi-guo",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a Business Analytics graduate student with a background in landscape architecture, interested in data, spatial analysis, and environmental systems."
+  },
+  {
+    "objectID": "index.html#data-spatial-thinking",
+    "href": "index.html#data-spatial-thinking",
+    "title": "About Me",
+    "section": "",
+    "text": "I use Python, SQL, Tableau, and GIS tools to transform complex data into clear insights."
+  },
+  {
+    "objectID": "index.html#environmental-and-urban-interests",
+    "href": "index.html#environmental-and-urban-interests",
+    "title": "About Me",
+    "section": "",
+    "text": "My work focuses on environmental data, urban systems, water, infrastructure, and public-sector decision-making."
+  },
+  {
+    "objectID": "index.html#career-goal",
+    "href": "index.html#career-goal",
+    "title": "About Me",
+    "section": "",
+    "text": "I hope to work in a role that combines data analytics and spatial analysis to support real-world environmental and planning decisions."
   },
   {
     "objectID": "index.html#what-i-do",
@@ -63,8 +105,8 @@
     "text": "I am especially interested in:\n\nEnvironmental data analysis\n\nWater and ecological systems\n\nUrban and infrastructure analytics\n\nData-driven decision-making in public sector projects"
   },
   {
-    "objectID": "index.html#career-goal",
-    "href": "index.html#career-goal",
+    "objectID": "index.html#career-goal-1",
+    "href": "index.html#career-goal-1",
     "title": "About Me",
     "section": "",
     "text": "My goal is to work in a role where I can combine data analytics and spatial analysis to generate actionable insights, particularly in environmental or urban contexts.\nI am actively looking for opportunities where I can apply my technical skills to real-world problems and continue building impactful data-driven solutions."

@@ -1,6 +1,40 @@
 
 # About Me
+::: {.hero-opening}
+<div class="leaf-shape leaf-one"></div>
+<div class="leaf-shape leaf-two"></div>
+<div class="leaf-shape leaf-three"></div>
 
+# Yingyi Guo
+
+## Data Analytics · Spatial Thinking · Environmental Systems
+
+I transform data into visual, spatial, and actionable insights.
+:::
+
+::: {.hero-section}
+## Hi, I’m Yingyi Guo
+
+I am a Business Analytics graduate student with a background in landscape architecture, interested in data, spatial analysis, and environmental systems.
+:::
+
+::: {.section-green}
+## Data + Spatial Thinking
+
+I use Python, SQL, Tableau, and GIS tools to transform complex data into clear insights.
+:::
+
+::: {.section-light}
+## Environmental and Urban Interests
+
+My work focuses on environmental data, urban systems, water, infrastructure, and public-sector decision-making.
+:::
+
+::: {.section-dark}
+## Career Goal
+
+I hope to work in a role that combines data analytics and spatial analysis to support real-world environmental and planning decisions.
+:::
 Hi, I’m Yingyi Guo, a graduate student in Business Analytics at Boston University with a background in landscape architecture.
 
 My work sits at the intersection of **data analysis, spatial thinking, and environmental systems**. I am particularly interested in how data can be used to support decision-making in areas such as environmental planning, urban systems, and public infrastructure.
