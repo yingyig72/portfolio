@@ -2,6 +2,10 @@
 # About Me
 ::: {.page-section .about-section #about}
 
+<div class="leaf-shape leaf-one"></div>
+<div class="leaf-shape leaf-two"></div>
+<div class="leaf-shape leaf-three"></div>
+
 # About
 
 <div class="hero-layout">
