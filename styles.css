@@ -321,3 +321,7 @@ a:hover {
   opacity: 0.7;
 }
 
+.scroll-hint {
+  z-index: 10;
+  position: relative;
+}
