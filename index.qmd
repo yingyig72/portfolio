@@ -124,10 +124,6 @@ format:
   box-shadow: 0 44px 90px rgba(47, 93, 58, 0.35);
 }
 
-<div class="scroll-hint" onclick="window.location.href='projects.html'" style="cursor:pointer;">
-  <span>Next</span>
-  <div class="arrow"></div>
-
 
 </style>
 
@@ -163,3 +159,8 @@ window.addEventListener('load', () => {
 });
 </script>
 ```
+<div class="scroll-hint" onclick="window.location.href='projects.html'" style="cursor:pointer;">
+  <span>Next</span>
+  <div class="arrow"></div>
+</div>
+---
