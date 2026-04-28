@@ -23,14 +23,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "About",
     "section": "",
-    "text": ".leaf-shape { position: absolute; border-radius: 60% 40% 60% 40%; background: rgba(91, 137, 91, 0.25); animation: floatLeaf 10s ease-in-out infinite; z-index: 1; filter: blur(2px); }\n/* 超大主叶子（视觉核心） */ .leaf-one { width: 420px; height: 420px; top: 5%; right: 10%; }\n/* 中等 */ .leaf-two { width: 260px; height: 260px; bottom: 5%; left: 5%; animation-delay: 2s; }\n/* 小的（增加层次） */ .leaf-three { width: 160px; height: 160px; top: 50%; right: 35%; animation-delay: 4s; } @keyframes floatLeaf { 0% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-60px) rotate(15deg); } 100% { transform: translateY(0) rotate(0deg); } } # About\n\n\n\nBusiness Analytics graduate student with a background in landscape architecture.\nI focus on data analytics, spatial thinking, and environmental systems.\n\n\n\n\n\n\n\n.about-section { position: relative; overflow: hidden; background: linear-gradient( 135deg, #e6f2dc, #f7f2e8, #cfe5c9 ); }"
+    "text": "Business Analytics graduate student with a background in landscape architecture.\nI focus on data analytics, spatial thinking, and environmental systems.\n\n\n\n\n\n:::"
   },
   {
     "objectID": "index.html#yingyi-guo",
     "href": "index.html#yingyi-guo",
-    "title": "",
+    "title": "About",
     "section": "",
     "text": "Business Analytics graduate student with a background in landscape architecture.\nI focus on data analytics, spatial thinking, and environmental systems."
   },
