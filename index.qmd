@@ -1,5 +1,7 @@
 
 # About Me
+# About Me {#about}
+
 ::: {.hero-opening}
 
 <div class="hero-text">
@@ -18,7 +20,6 @@ I transform data into visual, spatial, and actionable insights.
 
 <div class="leaf-shape leaf-one"></div>
 <div class="leaf-shape leaf-two"></div>
-<div class="leaf-shape leaf-three"></div>
 
 :::
 
