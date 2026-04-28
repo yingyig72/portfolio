@@ -23,30 +23,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "",
     "section": "",
-    "text": "Business Analytics graduate student with a background in landscape architecture.\nI focus on data analytics, spatial thinking, and environmental systems."
+    "text": ".leaf-shape { position: absolute; border-radius: 60% 40% 60% 40%; background: rgba(91, 137, 91, 0.25); animation: floatLeaf 10s ease-in-out infinite; z-index: 1; filter: blur(2px); }\n/* 超大主叶子（视觉核心） */ .leaf-one { width: 420px; height: 420px; top: 5%; right: 10%; }\n/* 中等 */ .leaf-two { width: 260px; height: 260px; bottom: 5%; left: 5%; animation-delay: 2s; }\n/* 小的（增加层次） */ .leaf-three { width: 160px; height: 160px; top: 50%; right: 35%; animation-delay: 4s; } @keyframes floatLeaf { 0% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-60px) rotate(15deg); } 100% { transform: translateY(0) rotate(0deg); } } # About\n\n\n\nBusiness Analytics graduate student with a background in landscape architecture.\nI focus on data analytics, spatial thinking, and environmental systems.\n\n\n\n\n\n\n\n.about-section { position: relative; overflow: hidden; background: linear-gradient( 135deg, #e6f2dc, #f7f2e8, #cfe5c9 ); }"
   },
   {
     "objectID": "index.html#yingyi-guo",
     "href": "index.html#yingyi-guo",
-    "title": "About Me",
+    "title": "",
     "section": "",
     "text": "Business Analytics graduate student with a background in landscape architecture.\nI focus on data analytics, spatial thinking, and environmental systems."
-  },
-  {
-    "objectID": "index.html#job-market-analytics-project",
-    "href": "index.html#job-market-analytics-project",
-    "title": "About Me",
-    "section": "Job Market Analytics Project",
-    "text": "Job Market Analytics Project\nAnalyzed job posting data to identify hiring trends, skill demand, and career opportunities.\nTools: Python, Quarto, GitHub Pages"
-  },
-  {
-    "objectID": "index.html#hospitality-analytics-project",
-    "href": "index.html#hospitality-analytics-project",
-    "title": "About Me",
-    "section": "Hospitality Analytics Project",
-    "text": "Hospitality Analytics Project\nAnalyzed booking behavior, customer segments, and revenue opportunities.\nTools: Python, Tableau, Machine Learning"
   },
   {
     "objectID": "contact.html",
@@ -96,12 +82,5 @@
     "title": "AI & Urban-Rural Job Market Disparities",
     "section": "Tools & Methods",
     "text": "Tools & Methods\nTools: Python, Lightcast API, U.S. Census Data, GeoPandas\n← Back to Projects"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
