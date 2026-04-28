@@ -1,3 +1,4 @@
+::: {.page-section .about-section #about}
 
 # About
 
@@ -20,4 +21,3 @@ I focus on data analytics, spatial thinking, and environmental systems.
 </div>
 
 :::
-
