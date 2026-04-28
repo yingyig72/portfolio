@@ -143,11 +143,6 @@ format:
     <img src="profile.jpg" alt="Yingyi Guo" />
   </div>
 
-  <div class="scroll-hint" onclick="window.location.href='projects.html'" style="cursor:pointer;">
-    <span>Scroll</span>
-    <div class="arrow"></div>
-  </div>
-</div>
 
 <script>
 // Trigger entrance animations on load
