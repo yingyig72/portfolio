@@ -21,34 +21,6 @@
     "text": "Tools & Methods\nTools: Python, GIS, Spatial Regression, K-Means Clustering\n← Back to Projects"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Yingyi Guo",
-    "section": "",
-    "text": "Portfolio · 2025\n    Yingyi Guo\n    Business Analytics graduate student with a background in landscape architecture.\n    I focus on data analytics, spatial thinking, and environmental systems.\n  \n\n  \n    \n  \n\n  \n    Scroll"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\nFeel free to reach out to me:\nEmail: ying90135@gmail.com\nLinkedIn: www.linkedin.com/in/yingyi2003\nGitHub: https://github.com/yingyig72"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "CV\nDownload My Resume"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Market Analytics & Investment Strategy: NYC Real Estate\nConducted spatial analysis using GIS datasets across five NYC neighborhoods to evaluate land use, housing, and investment patterns.\nTools: Python, GIS, Clustering, Regression\nDate: December 2025\n\n\n\nAI & Urban-Rural Job Market Disparities\nExamined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.\nTools: Python, Lightcast, Census Data, GeoPandas"
-  },
-  {
     "objectID": "ai-jobmarket.html#overview",
     "href": "ai-jobmarket.html#overview",
     "title": "AI & Urban-Rural Job Market Disparities",
@@ -68,5 +40,33 @@
     "title": "AI & Urban-Rural Job Market Disparities",
     "section": "Tools & Methods",
     "text": "Tools & Methods\nTools: Python, Lightcast API, U.S. Census Data, GeoPandas\n← Back to Projects"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Market Analytics & Investment Strategy: NYC Real Estate\nConducted spatial analysis using GIS datasets across five NYC neighborhoods to evaluate land use, housing, and investment patterns.\nTools: Python, GIS, Clustering, Regression\nDate: December 2025\n\n\n\nAI & Urban-Rural Job Market Disparities\nExamined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.\nTools: Python, Lightcast, Census Data, GeoPandas .scroll-hint { position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; gap: 6px; color: #6a9e6a; font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; z-index: 3; animation: fadeIn 2s ease 1.5s both; }\n.scroll-hint .arrow { width: 20px; height: 20px; border-right: 2px solid #6a9e6a; border-bottom: 2px solid #6a9e6a; transform: rotate(45deg); animation: bounceDown 1.5s ease infinite; }\n@keyframes bounceDown { 0%, 100% { transform: rotate(45deg) translateY(0); } 50% { transform: rotate(45deg) translateY(8px); } }\n@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } } —"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV\nDownload My Resume\n.scroll-hint { position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; gap: 6px; color: #6a9e6a; font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; z-index: 3; animation: fadeIn 2s ease 1.5s both; }\n.scroll-hint .arrow { width: 20px; height: 20px; border-right: 2px solid #6a9e6a; border-bottom: 2px solid #6a9e6a; transform: rotate(45deg); animation: bounceDown 1.5s ease infinite; }\n@keyframes bounceDown { 0%, 100% { transform: rotate(45deg) translateY(0); } 50% { transform: rotate(45deg) translateY(8px); } }\n@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nFeel free to reach out to me:\nEmail: ying90135@gmail.com\nLinkedIn: www.linkedin.com/in/yingyi2003\nGitHub: https://github.com/yingyig72"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yingyi Guo",
+    "section": "",
+    "text": "Portfolio · 2025\n    Yingyi Guo\n    Business Analytics graduate student with a background in landscape architecture.\n    I focus on data analytics, spatial thinking, and environmental systems.\n  \n\n  \n    \n  \n\n  \n    Scroll"
   }
 ]

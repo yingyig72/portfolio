@@ -18,5 +18,39 @@ Conducted spatial analysis using GIS datasets across five NYC neighborhoods to e
 Examined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.
 
 **Tools:** Python, Lightcast, Census Data, GeoPandas
+.scroll-hint {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  color: #6a9e6a;
+  font-size: 0.75rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  z-index: 3;
+  animation: fadeIn 2s ease 1.5s both;
+}
 
+.scroll-hint .arrow {
+  width: 20px;
+  height: 20px;
+  border-right: 2px solid #6a9e6a;
+  border-bottom: 2px solid #6a9e6a;
+  transform: rotate(45deg);
+  animation: bounceDown 1.5s ease infinite;
+}
+
+@keyframes bounceDown {
+  0%, 100% { transform: rotate(45deg) translateY(0); }
+  50% { transform: rotate(45deg) translateY(8px); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
 ---
