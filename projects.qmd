@@ -1,37 +1,23 @@
-# Projects
-## Job Market Analytics Project
+---
+title: "Projects"
+format: html
+---
 
-Analyzed U.S. job posting data to understand hiring trends, skill demand, and career opportunities in data-related fields.
+## Projects
 
-**Tools:** Python, Quarto, GitHub Pages, Data Visualization
+### [Market Analytics & Investment Strategy: NYC Real Estate](nyc-realestate.qmd)
 
-**Key Work:**
-- Cleaned and organized job posting data
-- Identified trends in skills, industries, and job categories
-- Built visualizations to communicate findings clearly
+Conducted spatial analysis using GIS datasets across five NYC neighborhoods to evaluate land use, housing, and investment patterns.
+
+**Tools:** Python, GIS, Clustering, Regression  
+**Date:** December 2025
 
 ---
 
-## Hospitality Analytics Project
+### [AI & Urban-Rural Job Market Disparities](ai-jobmarket.qmd)
 
-Used booking and customer behavior data to analyze cancellation patterns, customer segments, and revenue opportunities.
+Examined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.
 
-**Tools** Python, Tableau, Machine Learning
-
-**Key Work:**
-- Built exploratory visualizations to understand customer behavior
-- Created classification models to predict booking outcomes
-- Developed business insights for improving customer targeting
+**Tools:** Python, Lightcast, Census Data, GeoPandas
 
 ---
-
-## GIS and Environmental Analysis Project
-
-Applied spatial analysis to support environmental and urban planning decisions.
-
-**Tools:** ArcGIS Pro, QGIS, Python
-
-**Key Work:**
-- Processed spatial data and created maps
-- Analyzed environmental and site conditions
-- Connected spatial patterns with planning recommendations

@@ -1,52 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "nyc-realestate.html#overview",
+    "href": "nyc-realestate.html#overview",
+    "title": "Market Analytics & Investment Strategy: NYC Real Estate",
+    "section": "Overview",
+    "text": "Overview\nThis project conducted a comprehensive spatial and investment analysis across five NYC neighborhoods, integrating GIS datasets to evaluate land use patterns, housing stock, and investment potential."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\nFeel free to reach out to me:\nEmail: ying90135@gmail.com\nLinkedIn: www.linkedin.com/in/yingyi2003\nGitHub: https://github.com/yingyig72"
+    "objectID": "nyc-realestate.html#key-contributions",
+    "href": "nyc-realestate.html#key-contributions",
+    "title": "Market Analytics & Investment Strategy: NYC Real Estate",
+    "section": "Key Contributions",
+    "text": "Key Contributions\n\nSpatial Analysis — Mapped land use and housing patterns across five NYC neighborhoods using GIS datasets to surface investment opportunities.\nClustering Analysis — Segmented neighborhoods based on geographic and economic indicators to identify distinct market profiles.\nRegression Analysis — Quantified the spatial influence on housing prices to support data-driven investment decisions."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "CV\nDownload My Resume"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Analyzed U.S. job posting data to understand hiring trends, skill demand, and career opportunities in data-related fields.\nTools: Python, Quarto, GitHub Pages, Data Visualization\nKey Work: - Cleaned and organized job posting data - Identified trends in skills, industries, and job categories - Built visualizations to communicate findings clearly\n\n\n\n\nUsed booking and customer behavior data to analyze cancellation patterns, customer segments, and revenue opportunities.\nTools Python, Tableau, Machine Learning\nKey Work: - Built exploratory visualizations to understand customer behavior - Created classification models to predict booking outcomes - Developed business insights for improving customer targeting\n\n\n\n\nApplied spatial analysis to support environmental and urban planning decisions.\nTools: ArcGIS Pro, QGIS, Python\nKey Work: - Processed spatial data and created maps - Analyzed environmental and site conditions - Connected spatial patterns with planning recommendations"
-  },
-  {
-    "objectID": "projects.html#job-market-analytics-project",
-    "href": "projects.html#job-market-analytics-project",
-    "title": "Projects",
-    "section": "",
-    "text": "Analyzed U.S. job posting data to understand hiring trends, skill demand, and career opportunities in data-related fields.\nTools: Python, Quarto, GitHub Pages, Data Visualization\nKey Work: - Cleaned and organized job posting data - Identified trends in skills, industries, and job categories - Built visualizations to communicate findings clearly"
-  },
-  {
-    "objectID": "projects.html#hospitality-analytics-project",
-    "href": "projects.html#hospitality-analytics-project",
-    "title": "Projects",
-    "section": "",
-    "text": "Used booking and customer behavior data to analyze cancellation patterns, customer segments, and revenue opportunities.\nTools Python, Tableau, Machine Learning\nKey Work: - Built exploratory visualizations to understand customer behavior - Created classification models to predict booking outcomes - Developed business insights for improving customer targeting"
-  },
-  {
-    "objectID": "projects.html#gis-and-environmental-analysis-project",
-    "href": "projects.html#gis-and-environmental-analysis-project",
-    "title": "Projects",
-    "section": "",
-    "text": "Applied spatial analysis to support environmental and urban planning decisions.\nTools: ArcGIS Pro, QGIS, Python\nKey Work: - Processed spatial data and created maps - Analyzed environmental and site conditions - Connected spatial patterns with planning recommendations"
+    "objectID": "nyc-realestate.html#tools-methods",
+    "href": "nyc-realestate.html#tools-methods",
+    "title": "Market Analytics & Investment Strategy: NYC Real Estate",
+    "section": "Tools & Methods",
+    "text": "Tools & Methods\nTools: Python, GIS, Spatial Regression, K-Means Clustering\n← Back to Projects"
   },
   {
     "objectID": "index.html",
@@ -75,5 +47,61 @@
     "title": "About Me",
     "section": "Hospitality Analytics Project",
     "text": "Hospitality Analytics Project\nAnalyzed booking behavior, customer segments, and revenue opportunities.\nTools: Python, Tableau, Machine Learning"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nFeel free to reach out to me:\nEmail: ying90135@gmail.com\nLinkedIn: www.linkedin.com/in/yingyi2003\nGitHub: https://github.com/yingyig72"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV\nDownload My Resume"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Conducted spatial analysis using GIS datasets across five NYC neighborhoods to evaluate land use, housing, and investment patterns.\nTools: Python, GIS, Clustering, Regression\nDate: December 2025\n\n\n\n\nExamined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.\nTools: Python, Lightcast, Census Data, GeoPandas"
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Conducted spatial analysis using GIS datasets across five NYC neighborhoods to evaluate land use, housing, and investment patterns.\nTools: Python, GIS, Clustering, Regression\nDate: December 2025\n\n\n\n\nExamined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.\nTools: Python, Lightcast, Census Data, GeoPandas"
+  },
+  {
+    "objectID": "ai-jobmarket.html#overview",
+    "href": "ai-jobmarket.html#overview",
+    "title": "AI & Urban-Rural Job Market Disparities",
+    "section": "Overview",
+    "text": "Overview\nThis analysis examines how AI is reshaping job markets across urban and rural areas, focusing on differences in skill demand, wage patterns, and job distribution."
+  },
+  {
+    "objectID": "ai-jobmarket.html#key-findings",
+    "href": "ai-jobmarket.html#key-findings",
+    "title": "AI & Urban-Rural Job Market Disparities",
+    "section": "Key Findings",
+    "text": "Key Findings\nUsing Lightcast job postings, AI-related roles were identified through skill-based keywords and mapped geographically using U.S. Census urban boundaries. The results reveal a clear pattern of inequality:\n\nUrban areas dominate AI job growth, especially for high-skill roles\nRural markets remain limited across all skill levels\nAI jobs consistently require higher skills and offer better pay\nThese advantages are concentrated in cities, reinforcing existing geographic and skill-based disparities rather than distributing opportunities evenly"
+  },
+  {
+    "objectID": "ai-jobmarket.html#tools-methods",
+    "href": "ai-jobmarket.html#tools-methods",
+    "title": "AI & Urban-Rural Job Market Disparities",
+    "section": "Tools & Methods",
+    "text": "Tools & Methods\nTools: Python, Lightcast API, U.S. Census Data, GeoPandas\n← Back to Projects"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

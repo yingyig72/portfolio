@@ -1,0 +1,27 @@
+---
+title: "AI & Urban-Rural Job Market Disparities"
+date: "2025"
+format: html
+---
+
+<!-- Hero image - replace with your actual image filename -->
+![](images/ai-jobmarket.jpg){width="100%" style="border-radius: 8px; margin-bottom: 2rem;"}
+
+## Overview
+
+This analysis examines how AI is reshaping job markets across urban and rural areas, focusing on differences in skill demand, wage patterns, and job distribution.
+
+## Key Findings
+
+Using Lightcast job postings, AI-related roles were identified through skill-based keywords and mapped geographically using U.S. Census urban boundaries. The results reveal a clear pattern of inequality:
+
+- Urban areas dominate AI job growth, especially for high-skill roles
+- Rural markets remain limited across all skill levels
+- AI jobs consistently require higher skills and offer better pay
+- These advantages are concentrated in cities, reinforcing existing geographic and skill-based disparities rather than distributing opportunities evenly
+
+## Tools & Methods
+
+**Tools:** Python, Lightcast API, U.S. Census Data, GeoPandas
+
+[← Back to Projects](projects.qmd)

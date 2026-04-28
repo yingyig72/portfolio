@@ -1,0 +1,24 @@
+---
+title: "Market Analytics & Investment Strategy: NYC Real Estate"
+date: "December 2025"
+format: html
+---
+
+<!-- Hero image - replace with your actual image filename -->
+![](images/nyc-realestate.png){width="100%" style="border-radius: 8px; margin-bottom: 2rem;"}
+
+## Overview
+
+This project conducted a comprehensive spatial and investment analysis across five NYC neighborhoods, integrating GIS datasets to evaluate land use patterns, housing stock, and investment potential.
+
+## Key Contributions
+
+- **Spatial Analysis** — Mapped land use and housing patterns across five NYC neighborhoods using GIS datasets to surface investment opportunities.
+- **Clustering Analysis** — Segmented neighborhoods based on geographic and economic indicators to identify distinct market profiles.
+- **Regression Analysis** — Quantified the spatial influence on housing prices to support data-driven investment decisions.
+
+## Tools & Methods
+
+**Tools:** Python, GIS, Spatial Regression, K-Means Clustering
+
+[← Back to Projects](projects.qmd)
