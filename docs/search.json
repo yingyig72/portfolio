@@ -46,14 +46,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Conducted spatial analysis using GIS datasets across five NYC neighborhoods to evaluate land use, housing, and investment patterns.\nTools: Python, GIS, Clustering, Regression\nDate: December 2025\n\n\n\n\nExamined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.\nTools: Python, Lightcast, Census Data, GeoPandas"
-  },
-  {
-    "objectID": "projects.html#projects",
-    "href": "projects.html#projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Conducted spatial analysis using GIS datasets across five NYC neighborhoods to evaluate land use, housing, and investment patterns.\nTools: Python, GIS, Clustering, Regression\nDate: December 2025\n\n\n\n\nExamined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.\nTools: Python, Lightcast, Census Data, GeoPandas"
+    "text": "Market Analytics & Investment Strategy: NYC Real Estate\nConducted spatial analysis using GIS datasets across five NYC neighborhoods to evaluate land use, housing, and investment patterns.\nTools: Python, GIS, Clustering, Regression\nDate: December 2025\n\n\n\nAI & Urban-Rural Job Market Disparities\nExamined how AI reshapes job markets across urban and rural areas, analyzing skill demand, wage patterns, and geographic inequality using Lightcast job postings.\nTools: Python, Lightcast, Census Data, GeoPandas"
   },
   {
     "objectID": "ai-jobmarket.html#overview",

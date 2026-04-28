@@ -3,7 +3,6 @@ title: "Projects"
 format: html
 ---
 
-## Projects
 
 ### [Market Analytics & Investment Strategy: NYC Real Estate](nyc-realestate.qmd)
 
