@@ -1,10 +1,16 @@
-::: {.page-section .about-section #about}
+---
+title: ""
+format:
+  html:
+    toc: false
+---
 
-# About
+<div class="hero-opening">
 
-<div class="hero-layout">
+  <div class="leaf-shape leaf-one"></div>
+  <div class="leaf-shape leaf-two"></div>
 
-<div>
+  <div class="hero-text">
 
 ## Yingyi Guo
 
@@ -12,12 +18,10 @@ Business Analytics graduate student with a background in landscape architecture.
 
 I focus on data analytics, spatial thinking, and environmental systems.
 
-</div>
+  </div>
 
-<div class="hero-photo">
-<img src="profile.jpg" alt="Yingyi Guo profile photo">
-</div>
+  <div class="hero-photo">
+    <img src="profile.jpg" alt="Yingyi Guo" />
+  </div>
 
 </div>
-
-:::

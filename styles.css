@@ -220,3 +220,103 @@ a:hover {
   border-radius: 28px;
   box-shadow: 0 25px 60px rgba(47, 93, 58, 0.25);
 }
+
+/* ============================================
+   PROJECT PAGE LAYOUT
+   ============================================ */
+
+/* Hero section with diagonal background */
+.project-hero {
+  position: relative;
+  padding: 4rem 2rem 6rem;
+  margin: -2rem -2rem 3rem;
+  background: linear-gradient(170deg, #f5f5f0 55%, #c8d8c0 55%);
+  overflow: hidden;
+}
+
+/* Large hero image */
+.project-hero img {
+  display: block;
+  width: 85%;
+  max-width: 860px;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.18);
+}
+
+/* Project title block */
+.project-title-block {
+  text-align: center;
+  margin: 2.5rem auto 1.5rem;
+  max-width: 800px;
+}
+
+.project-title-block .project-label {
+  font-family: 'Georgia', serif;
+  font-size: 1.1rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #888;
+  margin-bottom: 0.4rem;
+}
+
+.project-title-block h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #2c5f2e;
+  border-bottom: 3px solid #2c5f2e;
+  display: inline-block;
+  padding-bottom: 0.3rem;
+}
+
+/* Tool badges row */
+.tool-badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem;
+  margin: 1.8rem auto 2.5rem;
+  max-width: 700px;
+}
+
+.tool-badge {
+  background: #2c5f2e;
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+}
+
+/* Project body text */
+.project-body {
+  max-width: 760px;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: #333;
+}
+
+.project-body ul {
+  padding-left: 1.4rem;
+}
+
+.project-body ul li {
+  margin-bottom: 0.7rem;
+}
+
+/* Back link */
+.back-link {
+  display: inline-block;
+  margin-top: 3rem;
+  color: #2c5f2e;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 2px solid #2c5f2e;
+  padding-bottom: 2px;
+}
+
+.back-link:hover {
+  opacity: 0.7;
+}
